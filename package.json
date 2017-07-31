@@ -1,5 +1,11 @@
 {
   "name": "login-devise",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6"
+  },
+  "version": "1.0.0",
+  "repository": "https://github.com/miguelbertaud/login-devise.git",
+  "author": "Miguel Bertaud <miguel.bertaud@gmail.com>",
+  "license": "MIT"
 }
